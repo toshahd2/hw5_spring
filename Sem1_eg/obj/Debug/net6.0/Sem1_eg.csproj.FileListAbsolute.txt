@@ -1,0 +1,15 @@
+/Users/anton/Documents/Study/Sem1_eg/bin/Debug/net6.0/Sem1_eg
+/Users/anton/Documents/Study/Sem1_eg/bin/Debug/net6.0/Sem1_eg.deps.json
+/Users/anton/Documents/Study/Sem1_eg/bin/Debug/net6.0/Sem1_eg.runtimeconfig.json
+/Users/anton/Documents/Study/Sem1_eg/bin/Debug/net6.0/Sem1_eg.dll
+/Users/anton/Documents/Study/Sem1_eg/bin/Debug/net6.0/Sem1_eg.pdb
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/Sem1_eg.csproj.AssemblyReference.cache
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/Sem1_eg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/Sem1_eg.AssemblyInfoInputs.cache
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/Sem1_eg.AssemblyInfo.cs
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/Sem1_eg.csproj.CoreCompileInputs.cache
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/Sem1_eg.dll
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/refint/Sem1_eg.dll
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/Sem1_eg.pdb
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/Sem1_eg.genruntimeconfig.cache
+/Users/anton/Documents/Study/Sem1_eg/obj/Debug/net6.0/ref/Sem1_eg.dll
