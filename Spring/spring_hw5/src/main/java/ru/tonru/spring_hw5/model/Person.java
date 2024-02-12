@@ -1,5 +1,6 @@
 package ru.tonru.spring_hw5.model;
-import javax.persistence.*;
+import jakarta.persistence.*;
+
 
 @Entity
 @Table(name = "persons")
